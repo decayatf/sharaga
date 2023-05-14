@@ -43,4 +43,4 @@ void main()
     }
     printf("сумма основной диоганали %d \n", summ_main);
     printf("сумма побочной диоганали %d", summ_sub);
-}
+}//
