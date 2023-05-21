@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "123.C": "cpp"
+        "stdio.h": "c",
+        "sub.h": "c"
     }
 }
